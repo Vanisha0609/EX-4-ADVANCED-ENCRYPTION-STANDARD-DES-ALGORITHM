@@ -66,3 +66,4 @@ for (int i = 0; i < strlen(ciphertext); i++)
 ![image](https://github.com/user-attachments/assets/acc77e67-ca08-448d-93cc-673599375c22)
 
 ## RESULT: 
+Thus the Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is executed successfully.
